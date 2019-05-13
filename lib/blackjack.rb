@@ -3,7 +3,8 @@ def welcome
 end
 
 def deal_card
-  puts "#{(card) 1-11}""
+  puts "num 1..11"
+  puts "#{num > 0}"
 end
 
 def display_card_total
