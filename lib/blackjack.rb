@@ -3,7 +3,7 @@ def welcome
 end
 
 def deal_card
-  puts "num 1..11"
+  puts "1..11"
   puts "#{ > 0}"
 end
 
