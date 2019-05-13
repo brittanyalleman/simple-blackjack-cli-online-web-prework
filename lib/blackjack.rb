@@ -4,7 +4,7 @@ end
 
 def deal_card
   puts "num 1..11"
-  puts "#{num > 0}"
+  puts "#{ > 0}"
 end
 
 def display_card_total
